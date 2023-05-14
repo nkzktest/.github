@@ -1,0 +1,13 @@
+{
+    "name": "Techdocs workflow",
+    "description": "Starter workflow for generating and publishing techdocs.",
+    "iconName": "example-icon",
+    "categories": [
+        "Backstage",
+        "Techdocs",
+        "Docs"
+    ],
+    "filePatterns": [
+        "catalog-info.yaml"
+    ]
+}
