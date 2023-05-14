@@ -6,8 +6,5 @@
         "Backstage",
         "Techdocs",
         "Docs"
-    ],
-    "filePatterns": [
-        "catalog-info.yaml"
     ]
 }
